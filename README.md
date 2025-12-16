@@ -1,13 +1,13 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Lalit Jadon</h1>
-<h3>A Passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
+<h3>A Passionate Front-End Developer with ReactJs  who focuses on writing clean and efficient code.</h3>
 
 ---
 
 ## 🚀 About Me
 
-🌱 I'm currently learning and working on MERN Stack Projects  
+🌱 I'm currently learning and working on reactjs  Projects  
 👩‍💻 Hands-on experience with HTML, CSS, JavaScript, React, Node.js & MongoDB  
 🌐 Portfolio: <a href="https://lalitjadonportfolio.netlify.app/">Click Here</a>  
 🔗 All my projects are available at my <a href="https://github.com/Lalitjadon9759?tab=repositories">GitHub Repositories</a>  
